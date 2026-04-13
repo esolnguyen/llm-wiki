@@ -1,0 +1,8 @@
+# LLM Wiki extraction dependencies
+# Install with: .venv/bin/pip install -r requirements.txt
+
+# Primary PDF -> markdown extractor (fast, pure Python, high quality)
+pymupdf4llm
+
+# Broad format support: docx, pptx, xlsx, html, epub, images (OCR), etc.
+markitdown[all]

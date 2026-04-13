@@ -1,0 +1,21 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/hotkeys.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+
+.claude
